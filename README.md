@@ -2,7 +2,7 @@
 
 **Open-source RAG poisoning detection. OWASP LLM08:2025 reference implementation.**
 
-[![License](https://img.shields.io/badge/license-Apache%202.0-blue.svg)](LICENSE)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![Python](https://img.shields.io/badge/python-3.9%2B-blue.svg)](https://python.org)
 [![PyPI](https://img.shields.io/pypi/v/embeddings-guardian.svg)](https://pypi.org/project/embeddings-guardian/)
 
@@ -147,11 +147,4 @@ See [CONTRIBUTING.md](CONTRIBUTING.md) for development setup, testing, and pull 
 
 ## License
 
-Apache License 2.0. See [LICENSE](LICENSE).
-
-## References
-
-- Zou et al., "PoisonedRAG: Knowledge Corruption Attacks to Retrieval-Augmented Generation of Large Language Models," 2024
-- OWASP Top 10 for LLM Applications 2025 -- LLM08: Vector and Embedding Weaknesses
-- Xue et al., "BadRAG: Identifying Vulnerabilities in Retrieval Augmented Generation of Large Language Models," 2024
-- Zeng et al., "RevPRAG: Reverse Prompt Engineering for RAG Poisoning Detection," 2024
+[MIT](LICENSE).
